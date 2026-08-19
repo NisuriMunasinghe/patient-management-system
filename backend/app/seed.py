@@ -11,17 +11,17 @@ password_hash = PasswordHash.recommended()
 
 DOCTORS = [
     {
-        "email": "maya.fernando@clinicflow.test",
+        "email": "maya.fernando@clinicflow.com",
         "full_name": "Dr. Maya Fernando",
         "specialty": "Cardiology",
     },
     {
-        "email": "arun.perera@clinicflow.test",
+        "email": "arun.perera@clinicflow.com",
         "full_name": "Dr. Arun Perera",
         "specialty": "Dermatology",
     },
     {
-        "email": "sara.silva@clinicflow.test",
+        "email": "sara.silva@clinicflow.com",
         "full_name": "Dr. Sara Silva",
         "specialty": "General Medicine",
     },
