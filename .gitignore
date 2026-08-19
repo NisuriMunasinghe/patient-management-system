@@ -1,0 +1,25 @@
+# Environment and secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+backend/.venv/
+
+# JavaScript
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
